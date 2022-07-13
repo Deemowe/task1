@@ -10,7 +10,7 @@ It is necessary to use the Internet to perform the following steps correctly!
     2.Connect Wasdom ESP32 to your laptop via USB cable.
 
     3.Open Arduino IDE and go to File > Preference.
-  ![](images/1.png)
+  <img src="images/1.png" width="30px" Hight="30px" >
   
     4.The Preference dialog box will appear, then paste the following URL into 'Additional Board Manager URLs' and press OK. 
    https://dl.espressif.com/dl/package_esp32_index.json
