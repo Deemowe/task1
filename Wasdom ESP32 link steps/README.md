@@ -3,7 +3,7 @@ ESP32 is a series of low-cost, low-power system on a chip microcontrollers with 
 
 # Wasdom ESP32 Link Steps
 
-It is necessary to use the Internet to perform the following steps correctly!
+To perform the following steps correctly, a connection to the Internet is required!
 
     1.Install Arduino IDE from: https://www.arduino.cc/en/software
 
