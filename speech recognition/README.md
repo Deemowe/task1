@@ -9,7 +9,7 @@ a simple code that converts Arabic speech to text using javascript
 
 ## Preview 
 Watch the video:
-[![Watch the video](https://img.youtube.com/vi/5HQRBBjL1ro/maxresdefault.jpg)](https://youtu.be/YgasSmBOFb4)
+[![Watch the video](https://img.youtube.com/vi/5HQRBBjL1ro/maxresdefault.jpg)](https://youtu.be/5HQRBBjL1ro)
 
 
 
